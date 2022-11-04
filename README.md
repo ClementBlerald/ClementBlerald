@@ -3,7 +3,11 @@
  
 - Here you can look at some of my schools projects : 
   - https://gitlab.com/clement.blerald/basededonneavancee  
- 
+  - https://gitlab.com/clement.blerald/languageobjetavancee 
+  - https://gitlab.com/clement.blerald/LC3Processor
+  - https://gitlab.com/clement.blerald/projetreseauxl3
+  - https://gitlab.com/clement.blerald/projetsystemeavancee
+  - https://gitlab.com/clement.blerald/pw_project
  
  
 <!---
